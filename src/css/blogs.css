@@ -1,0 +1,16 @@
+.blogsWrapper {
+  max-width: 100%;
+  align-items: flex-start;
+  margin: 35px 0;
+  list-style-type: none;
+}
+.blogsWrapper .blog .imageWrapper {
+  display: flex;
+}
+.blogsWrapper .blog .imageWrapper .authorImage {
+  width: 50px;
+  height: 50px;
+}
+.blogsWrapper .excerpt {
+  color: rgb(117, 117, 117);
+}/*# sourceMappingURL=blogs.css.map */

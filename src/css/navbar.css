@@ -1,0 +1,31 @@
+.navbarWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.navbarWrapper .title {
+  color: #184d47;
+}
+.navbarWrapper .subscribeButton {
+  margin-left: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 13px;
+  background: #184d47;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: background 85ms ease-in-out;
+}
+.navbarWrapper .subscribeButton:hover {
+  background-color: black;
+}
+.navbarWrapper .icon {
+  width: 30px;
+  margin-right: 12px;
+}
+.navbarWrapper .input {
+  padding: 0 12px;
+  width: 100%;
+}/*# sourceMappingURL=navbar.css.map */
